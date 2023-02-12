@@ -1,0 +1,2 @@
+Faker==16.8.1
+XlsxWriter==3.0.8
